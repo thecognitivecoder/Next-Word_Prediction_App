@@ -1,0 +1,6 @@
+tensorflow
+keras
+streamlit
+torch
+gdown
+pickle-mixin  # If you encounter issues with pickle
